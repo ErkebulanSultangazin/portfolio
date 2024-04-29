@@ -10,4 +10,4 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 
-now you can visit <a href="http://localhost:8000">
+now you can visit <a href="http://localhost:8000">http://localhost:8000</a>
