@@ -5,7 +5,7 @@
 
 ```
 git clone https://github.com/ErkebulanSultangazin/portfolio.git
-cd django-portfolio-simple
+cd portfolio-Erkebulan
 pip install -r requirements.txt
 python manage.py runserver
 ```
